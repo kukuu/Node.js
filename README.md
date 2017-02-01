@@ -1,7 +1,7 @@
 # Best Practices for Node.js Development
 
 
-1. Start every new project with npm init
+1 Start every new project with npm init
 
 Npm’s init command will scaffold out a valid package.json for your project, inferring 
 common properties from the working directory.
@@ -24,7 +24,7 @@ current version of node (node -v):
 }
 
 
-2. Use a smart .npmrc
+2 Use a smart .npmrc
 
 By default, npm doesn’t save installed dependencies to package.json (and you should always 
 track your dependencies!).
